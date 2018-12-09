@@ -1,0 +1,18 @@
+{
+  "name": "shelly-coap",
+  "version": "0.1.0",
+  "description": "Enables communication with Shelly devices over CoAP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shelly",
+    "coap"
+  ],
+  "author": "Alexander Rydén",
+  "license": "ISC",
+  "dependencies": {
+    "coap": "^0.22.0"
+  }
+}
