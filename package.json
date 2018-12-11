@@ -11,7 +11,7 @@
     "coap"
   ],
   "author": "Alexander Rydén",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "coap": "^0.22.0"
   }
